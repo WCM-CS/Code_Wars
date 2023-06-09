@@ -2,6 +2,6 @@
 
 ![Codewars](https://www.codewars.com/users/WCM/badges/large)
 <br>
-![Codewars](https://github.r2v.ch/codewars?user=WCM&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+![Codewars](https://github.r2v.ch/codewars?user=WCM&name=true&top_languages=true&stroke=green&theme=purple_dark)
 <br>
-![Codewars](https://github.r2v.ch/codewars?user=WCM&stroke=blue)
+\
