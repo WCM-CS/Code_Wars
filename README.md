@@ -2,6 +2,6 @@
 
 ![Codewars](https://www.codewars.com/users/WCM/badges/large)
 <br>
-![Codewars](https://github.r2v.ch/codewars?user=WCM&name=true&top_languages=true&stroke=black&theme=nighowl)
+![Codewars](https://github.r2v.ch/codewars?user=WCM&name=true&top_languages=true&stroke=black&theme=nightowl)
 <br>
 
